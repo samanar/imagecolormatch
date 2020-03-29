@@ -1,4 +1,4 @@
-# imagecolormatch
+# imagecolormatch method exploit
 ## exploit for php 7.2+  
   
 ### Usage: GET/POST /exploit.php?f=<system_addr>&c=<command>  
